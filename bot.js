@@ -129,4 +129,4 @@ if (message.channel.type == "text") {
 }
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NTEzMDAzMTE0OTAzNzY1MDA3.DtBrdA.tFIs08BtHU1WyY6Ms94_aVmeS48);
